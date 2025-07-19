@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/madad_io/logo.webp" width="300" />
+  <img src="/images/madad_io/logo.webp" width="300" />
 </p>
 
 # 🩺 Madad io
