@@ -35,9 +35,9 @@
 
 ## 📌 Контакты
 
-- 🔗 TapLink: [@sherzodkamoldinov](https://t.me/sherzodkamoldinov)
-- 📧 Telegram: [@sherzodkamoldinov](https://t.me/sherzodkamoldinov)
-- 💼 LinkedIn: [linkedin.com/in/sherzodkamoldinov](https://linkedin.com/in/sherzodkamoldinov)
+- 🔗 TapLink: [@sherzodkamoldinov](https://taplink.cc/sherzodkamoldinov)
+- 📧 Telegram: [@sherzodkamoldinov](https://www.instagram.com/sherzod_kamoldinov/)
+- 💼 LinkedIn: [linkedin.com/in/sherzodkamoldinov](https://www.linkedin.com/in/sherzod-kamoldinov/)
 - 🛠️ Основной стек: Flutter Dev
 
 ---
