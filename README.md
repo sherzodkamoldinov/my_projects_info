@@ -30,5 +30,18 @@
 
 ---
 
-## 📦 Структура
+
+---
+
+## 📌 Контакты
+
+- 🔗 TapLink: [@sherzodkamoldinov](https://t.me/sherzodkamoldinov)
+- 📧 Telegram: [@sherzodkamoldinov](https://t.me/sherzodkamoldinov)
+- 💼 LinkedIn: [linkedin.com/in/sherzodkamoldinov](https://linkedin.com/in/sherzodkamoldinov)
+- 🛠️ Основной стек: Flutter Dev
+
+---
+
+> Каждый проект оформлен отдельно, чтобы показать мои скиллы, опыт работы в команде и участие в реальных продакшен-продуктах.
+
 
